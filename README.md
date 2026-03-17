@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Leanyw&theme=rose-pine&border_radius=34&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats)
