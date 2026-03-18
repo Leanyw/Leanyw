@@ -57,7 +57,7 @@ I enjoy learning new things, building projects, and solving problems, trying to 
 
 ## ⋆.ೃ 🪼 Most Used Languages ⋆.ೃ࿔*:･
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanyw&layout=compact&theme=rose_pine&border_radius=30&card_width=390&bg_color=191724&title_color=f2e9e1&text_color=e0def4&langs_count=5&hide=css,html"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanyw&layout=compact&theme=rose_pine&border_radius=30&card_width=600&bg_color=191724&title_color=f2e9e1&text_color=e0def4&langs_count=5&hide=css,html"/>
 
 </div>
 
