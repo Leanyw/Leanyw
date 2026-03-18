@@ -67,10 +67,6 @@ I enjoy learning new things, building projects, and solving problems, trying to 
 
 ## °‧ 𓆝 𓆟 GitHub Stats  𓆟 𓆞 ·｡
 
-<img src="https://github-readme-stats.vercel.app/api?username=Leanyw&show_icons=true&theme=rose_pine&border_radius=30&bg_color=191724&title_color=f2e9e1&text_color=e0def4&icon_color=eb6f92"/>
-
-<br/><br/>
-
 <img src="https://nirzak-streak-stats.vercel.app?user=Leanyw&theme=rose-pine&border_radius=30&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=600"/>
 
 </div>
